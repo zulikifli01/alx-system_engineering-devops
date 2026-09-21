@@ -16,3 +16,4 @@ this is to create a symbolic link
 this is to copy html files
 this is to move all files beginning with an uppercase
 this is to delete files that end with ~
+this is to create directories inside the current directory
