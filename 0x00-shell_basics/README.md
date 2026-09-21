@@ -9,3 +9,5 @@ this is to show a directory name in the /tmp/ directory
 this is to move the file betty from /tmp/ to /tmp/my first directory
 this is to remove the file betty /tmp/ to /tmp/my first directory
 this is to delete the directory my first directory from the tmp directory
+this is to change working directory
+this is to list hidden files in a long format
