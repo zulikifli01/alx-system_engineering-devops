@@ -17,3 +17,4 @@ this is to copy html files
 this is to move all files beginning with an uppercase
 this is to delete files that end with ~
 this is to create directories inside the current directory
+this is to list all files and directories separated by commas
