@@ -6,3 +6,5 @@ this is to show my current directory content in a long format
 this is to show my current directory contents, including hidden files using long format
 this is to show to show my current directory content, with hidden file numerically in a long format
 this is to show a directory name in the /tmp/ directory
+this is to move the file betty from /tmp/ to /tmp/my first directory
+this is to remove the file betty /tmp/ to /tmp/my first directory
