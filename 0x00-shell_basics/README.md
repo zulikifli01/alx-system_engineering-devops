@@ -13,4 +13,5 @@ this is to change working directory
 this is to list hidden files in a long format
 this is to create a file in a dirctory
 this is to create a symbolic link
-this is to copy html file
+this is to copy html files
+this is to move all files beginning with an uppercase
