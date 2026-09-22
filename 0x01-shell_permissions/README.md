@@ -11,3 +11,4 @@ this is to give no execution permission to owner and group but all permission fo
 this is to give 753 execution permision to a file
 this is to sets the mode of the file hello the same as olleh’s mode
 this is to add execution permission to all subdirectories
+this is to create a directory with permission 751
