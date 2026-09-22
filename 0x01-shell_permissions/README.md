@@ -10,3 +10,4 @@ this is to give execution permission to everybody
 this is to give no execution permission to owner and group but all permission for users
 this is to give 753 execution permision to a file
 this is to sets the mode of the file hello the same as olleh’s mode
+this is to add execution permission to all subdirectories
