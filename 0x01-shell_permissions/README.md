@@ -14,3 +14,4 @@ this is to add execution permission to all subdirectories
 this is to create a directory with permission 751
 this is to change group owner for a file
 this is to change both owner and group owner of all files and directories
+this is to change the owner and group owner of a symbolic link
